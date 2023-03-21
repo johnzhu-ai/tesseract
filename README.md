@@ -1,4 +1,4 @@
-# tesseract
+# Tesseract
 GPT-3/4 with multimodal prompts for enterprise system design and schematics
 
 1. Ingest millions-of-lines-of-code, file/bulk loads, diagrams, drawings & schematics with multimodality
